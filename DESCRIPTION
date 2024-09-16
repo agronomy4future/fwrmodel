@@ -1,0 +1,11 @@
+Package: gdds
+Title: Finlay-Wilkinson Regression Model to calculate slope
+Version: 0.0.0.9000
+Authors@R: 
+           person("JK", "Kim", , "agronomy4future@gmail.comm", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0002-9913-8768"))
+Description: to calculate slope for genotypes across environments using Finlay-Wilkinson Regression Model
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
