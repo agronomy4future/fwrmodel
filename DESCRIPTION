@@ -1,4 +1,4 @@
-Package: gdds
+Package: fwrmodel
 Title: Finlay-Wilkinson Regression Model to calculate slope
 Version: 0.0.0.9000
 Authors@R: 
